@@ -1,0 +1,60 @@
+
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif; 
+font-size: medium;
+    
+}
+h1{
+    text-align: center;
+    background-color: yellow;
+    padding: 2cm;
+    margin-bottom: 1cm;
+    font-size: larger;
+    font-weight: 700;
+}
+#txt-input{
+    display: block;
+    margin: auto;
+    margin-bottom: .5cm;
+    height: 3cm;
+    width: 7cm;
+    border-radius: 10px;
+    padding: 20px;
+}
+button{
+    display: block;
+    margin: auto;
+    margin-bottom: .5cm;
+    background-color: yellow;
+    padding: .25cm;
+    border-radius: 10px;
+    border-style: dotted;
+}
+#div1-h3{
+    margin: auto;
+    display: block;
+    width: 7cm;
+    padding: .25cm;
+    background-color: yellow;
+    margin-bottom: .5cm;
+    border-radius: 10px;
+    border-style: dotted;
+}
+#txt-output{
+    display: block;
+    margin: auto;
+    margin-bottom: .5cm;
+    height: 3cm;
+    width: 7cm;
+    border-radius: 10px;
+    padding: 20px;
+
+}
+footer{
+    background-color: yellow;
+    
+    text-align: center;
+    padding: 1cm ;
+    margin-bottom: 0cm;
+    margin-top: .5cm;
+}
